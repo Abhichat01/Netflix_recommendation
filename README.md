@@ -22,6 +22,8 @@ Analyzing User Activity Pattern’s and suggest
 products that better suit the user needs and
 choices.<br>
 
+**Domain:**<br> OTT Platform and Online Marketting<br>
+
 **Objective:**<br>
 In this project we will be
 creating one such Recommendation Engine
