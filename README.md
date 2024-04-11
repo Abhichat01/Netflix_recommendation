@@ -33,6 +33,6 @@ would be recommended a list of movies that
 are best suited for them.<br>
 
 **Dataset Information:**<br>
-You may download the dataset from the below link:<br>
+You may download the Netflix dataset from the below link:<br>
 https://drive.google.com/file/d/1Y_rFIb8k8pyxV8NC1nz1NqJbIBiv7ehC/view?usp=sharing
 <br> 
